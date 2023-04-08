@@ -27,5 +27,7 @@ Bluetooth Network
 
 References: 
 ----------- 
+
 Zaitsev D.A. Clans of Petri Nets: Verification of protocols and performance evaluation of networks, http://daze.ho.ua/daze-clans-covered-draft.djvu
+
 Zaitsev D.A., Shmeleva T.R. Simulating Telecommunication Systems with CPN Tools: Students' book // Odessa: ONAT, 2006. - 60 p. http://daze.ho.ua/cpnmp2.pdf
