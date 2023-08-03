@@ -10,6 +10,8 @@ Tool to run models - CPN Tools, http://cpntools.org
 List of models
 --------------
 
+Proof-of-work agreement protocol
+
 Provider Backbone Bridge
 
 MPLS Network
@@ -23,8 +25,6 @@ Ethernet Network
 E6 Network Dynamic Routing
 
 Bluetooth Network
-
-Proof-of-work agreement protocol
 
 
 References: 
