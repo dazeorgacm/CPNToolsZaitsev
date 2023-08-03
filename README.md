@@ -24,6 +24,8 @@ E6 Network Dynamic Routing
 
 Bluetooth Network
 
+Proof-of-work agreement protocol
+
 
 References: 
 ----------- 
